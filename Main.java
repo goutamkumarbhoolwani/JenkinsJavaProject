@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Hello from Jenkins!");
         System.out.println("Java program executed successfully.");
         System.out.println("Build completed successfully!");
-
+        System.out.println("Automatic build test successful!");
     }
 }
